@@ -3,8 +3,8 @@ A home assignment about MRI data on psychosis.
 
 Welcome to my project **Psychosis in MRI**.
 My name is Julie Folkerts.
-Date of completion: 18-12-2025.
-https://neurosynth.org/locations/0_0_0_6/
+Date of completion: 03-12-2025.
+Link to the Neurosynth page on psychosis: https://neurosynth.org/locations/0_0_0_6/
 
 This repository contains the code and analysis of my home assignment for the programming course. This project is about creating Python code to visualize fMRI data on a self-selected topic, in my case psychosis. By using the data from https://neurosynth.org/ I created a functional connectivity statisitical map and a histogram of voxel intensities of the fMRI scans on psyschosis. 
 
@@ -20,3 +20,4 @@ Python packages used:
 2. Matplotlib
 3. Nibabel
 4. Nilearn
+5. Glob
