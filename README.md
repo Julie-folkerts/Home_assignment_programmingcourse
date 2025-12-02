@@ -16,8 +16,7 @@ Tale of contents:
    - The notebook used is the following file: 'Home_assignment_programmingcourse.ipynb'
   
 Python packages used:
-1. Numpy
-2. Matplotlib
-3. Nibabel
-4. Nilearn
-5. Glob
+1. Matplotlib.pyplot
+2. Nibabel
+3. Nilearn
+4. Glob
